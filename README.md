@@ -16,7 +16,6 @@ If there is no CC or TP, place 0 in CC Weight and/or TP Weight.
 Example
 ------------------------------------------------------------------------
 ```
-Example:
 Class Example
 Math,3,30,20,50
 Physics,2,20,30,50
