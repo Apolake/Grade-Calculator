@@ -28,4 +28,4 @@ To import it simply click on otherclasses, import config and press the txt file 
 ![Grade Calculator](https://github.com/user-attachments/assets/e768f3bb-7b01-40c9-a0df-2c74c41fbfa5)
 
 
-Developer Solo by Yassine Raddadi
+Developed Solo by Yassine Raddadi
